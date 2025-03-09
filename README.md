@@ -23,7 +23,7 @@ This project was inspired by the blog post: [Building a Telegram File Downloader
 
 ```bash
 # Clone this repository
-git clone https://github.com/mrSamDev/telegram-batch-downloader
+git clone https://github.com/mrSamDev/telegram-batch-downloader telegram-arw-downloader
 cd telegram-arw-downloader
 
 # Install dependencies
@@ -34,7 +34,7 @@ npm install
 
 ```bash
 # Clone this repository
-git clone https://github.com/mrSamDev/telegram-batch-downloader
+git clone https://github.com/mrSamDev/telegram-batch-downloader telegram-arw-downloader
 cd telegram-arw-downloader
 
 # Install dependencies
@@ -45,7 +45,7 @@ pnpm install
 
 ```bash
 # Clone this repository
-git clone https://github.com/mrSamDev/telegram-batch-downloader
+git clone https://github.com/mrSamDev/telegram-batch-downloader telegram-arw-downloader
 cd telegram-arw-downloader
 
 # Install dependencies
