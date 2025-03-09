@@ -89,7 +89,7 @@ pnpm start
 ### Using bun
 
 ```bash
-bun run index.js
+bun run server.js
 ```
 
 ## How It Works
